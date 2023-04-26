@@ -1,2 +1,3 @@
 # Hey I am George...
 ## CSE undergrad
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
